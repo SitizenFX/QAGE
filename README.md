@@ -1,4 +1,4 @@
-# Vage Engine
+# QAGE Engine
 
 <p align="center">
   <a href="https://godotengine.org">
@@ -18,7 +18,7 @@ Web-based platforms and [consoles](https://docs.godotengine.org/en/latest/tutori
 
 ## Free, open source and community-driven
 
-Godot is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
+QAGE is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
 No strings attached, no royalties, nothing. The users' games are theirs, down
 to the last line of engine code. Godot's development is fully independent and
 community-driven, empowering users to help shape their engine to match their
@@ -38,7 +38,7 @@ titles.
 ### Binary downloads
 
 Official binaries for the Godot editor and the export templates can be found
-[on the Godot website](https://godotengine.org/download).
+[on the QAGE website](https://godotengine.org/download).
 
 ### Compiling from source
 
@@ -47,7 +47,7 @@ for compilation instructions for every supported platform.
 
 ## Community and contributing
 
-Godot is not only an engine but an ever-growing community of users and engine
+QAGE is not only an engine but an ever-growing community of users and engine
 developers. The main community channels are listed [on the homepage](https://godotengine.org/community).
 
 The best way to get in touch with the core engine developers is to join the
@@ -65,7 +65,7 @@ The [class reference](https://docs.godotengine.org/en/latest/classes/)
 is also accessible from the Godot editor.
 
 We also maintain official demos in their own [GitHub repository](https://github.com/godotengine/godot-demo-projects)
-as well as a list of [awesome Godot community resources](https://github.com/godotengine/awesome-godot).
+as well as a list of [awesome QAGE community resources](https://github.com/godotengine/awesome-godot).
 
 There are also a number of other
 [learning resources](https://docs.godotengine.org/en/latest/community/tutorials.html)
