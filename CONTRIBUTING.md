@@ -1,7 +1,7 @@
 # Contributors guidelines
 
 This document summarizes the most important points for people interested in
-contributing to Godot, especially via bug reports or pull requests.
+contributing to Vage, especially via bug reports or pull requests.
 
 Godot has a dedicated [Contributing documentation](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html)
 which details these points and more, and is a recommended read.
