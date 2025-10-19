@@ -56,6 +56,6 @@ Unauthorized copying, redistribution, reverse-engineering, or tampering with
 these proprietary components is prohibited and protected under international
 copyright law, including the Berne Convention.
 
-Use of VAGE Engine or any part thereof implies full acceptance of both the MIT
+Use of QAGE Engine or any part thereof implies full acceptance of both the MIT
 License for legacy components and the SitizenFX Proprietary License for all
 other components.
