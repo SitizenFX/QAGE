@@ -1,4 +1,4 @@
-VAGE Engine – A Custom Fork of the Godot Engine
+QAGE Engine – A Custom Fork of the Godot Engine
 Copyright (c) 2025 SitizenFX (Elijah Siita / VidllQ Authority)
 
 Use of this software and its source code is governed by the SitizenFX Proprietary
